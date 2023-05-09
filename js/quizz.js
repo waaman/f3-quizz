@@ -3,7 +3,7 @@
 */
 
 
-;(function($) {
+(function($) {
 
 // keep track of number of quizes added to page
 var quiz_count = 0;
